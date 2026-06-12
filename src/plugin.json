@@ -1,0 +1,10 @@
+{
+  "publisher": "github.DevinSanders",
+  "id": "theme.high-fantasy",
+  "name": "High Fantasy",
+  "version": "1.0.0",
+  "author": "Devin Sanders",
+  "description": "Two High Fantasy palettes: Tavern Hearth (parchment & ink) and Deep Dungeon (iron & ember).",
+  "entryDll": "HighFantasyThemePlugin.dll",
+  "isTheme": true
+}

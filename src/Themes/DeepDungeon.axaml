@@ -1,0 +1,40 @@
+<!-- Deep Dungeon — iron & ember; navigating a stone crypt by torchlight.
+     A flat theme: one set of colours, no Dark/Light variants. The host
+     applies these regardless of the active Avalonia variant. -->
+<ResourceDictionary xmlns="https://github.com/avaloniaui"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Surfaces — cast iron + slate -->
+    <SolidColorBrush x:Key="SidebarBackground"      Color="#16161A" />
+    <SolidColorBrush x:Key="ContentBackground"      Color="#1F1F23" />
+    <SolidColorBrush x:Key="PanelBackground1"       Color="#1A1A1E" />
+    <SolidColorBrush x:Key="PanelBackground2"       Color="#26262C" />
+    <SolidColorBrush x:Key="PanelBackground3"       Color="#2F2F36" />
+    <SolidColorBrush x:Key="SubtleBorder"           Color="#3A3A42" />
+
+    <!-- Accents — torchlight amber + sapphire -->
+    <SolidColorBrush x:Key="PrimaryAccent"          Color="#E8B45C" />
+    <SolidColorBrush x:Key="PrimaryAccentHover"     Color="#F2C672" />
+    <SolidColorBrush x:Key="OnPrimaryAccent"        Color="#1F1F23" />
+    <SolidColorBrush x:Key="SecondaryAccent"        Color="#4A7FB8" />
+
+    <!-- Text — warm bone on iron -->
+    <SolidColorBrush x:Key="TextPrimary"            Color="#E5DCC5" />
+    <SolidColorBrush x:Key="TextSecondary"          Color="#9C8F75" />
+
+    <!-- Status pairs — dungeon hues -->
+    <SolidColorBrush x:Key="SuccessBackground"      Color="#1F3326" />
+    <SolidColorBrush x:Key="SuccessForeground"      Color="#7AB868" />
+    <SolidColorBrush x:Key="DangerBackground"       Color="#3A1F1F" />
+    <SolidColorBrush x:Key="DangerForeground"       Color="#D85A5A" />
+    <SolidColorBrush x:Key="InfoBackground"         Color="#1F2C3D" />
+    <SolidColorBrush x:Key="InfoForeground"         Color="#4A7FB8" />
+    <SolidColorBrush x:Key="WarningBackground"      Color="#3D2E1A" />
+    <SolidColorBrush x:Key="WarningForeground"      Color="#E8B45C" />
+
+    <!-- Composition keys -->
+    <SolidColorBrush x:Key="DropZoneHighlight"      Color="#B4E8B45C" />
+    <SolidColorBrush x:Key="WaveformBrush"          Color="#E8B45C" />
+    <SolidColorBrush x:Key="LoopInheritForeground"  Color="#9C8F75" />
+    <SolidColorBrush x:Key="LoopForceOnForeground"  Color="#7AB868" />
+    <SolidColorBrush x:Key="LoopForceOffForeground" Color="#D85A5A" />
+</ResourceDictionary>
