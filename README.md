@@ -13,6 +13,14 @@ Two selectable palettes for fantasy RPG sessions. Each appears as its own entry 
 
 **Deep Dungeon** — Cast-iron charcoal and slate surfaces, warm bone-cream text, glowing torchlight amber for primary actions, sapphire blue for info. Perfect for expedition / crypt / combat scenes.
 
+## Previews
+
+| Tavern Hearth | Deep Dungeon |
+|---|---|
+| [![Tavern Hearth palette applied to Game Master Sound Board — aged parchment cream surfaces with walnut-ink text and vintage ruby accents](screenshots/TavernHearth.png)](screenshots/TavernHearth.png) | [![Deep Dungeon palette applied to Game Master Sound Board — cast-iron charcoal surfaces with warm bone text and torchlight amber accents](screenshots/DeepDungeon.png)](screenshots/DeepDungeon.png) |
+
+Click either screenshot for the full-resolution image.
+
 ## Install
 
 **Paid plugin.** The source is open here for reference, but the pre-built
